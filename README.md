@@ -1,4 +1,4 @@
-pipหลักๆที่ download
-pip install flask_restful
-pip install flask
-pip install requests
+pipหลักๆที่ download</br>
+pip install flask_restful</br>
+pip install flask</br>
+pip install requests</br>
